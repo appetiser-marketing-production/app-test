@@ -2,10 +2,10 @@
 /**
  * Plugin Name: app-test
  * Plugin URI:  https://appetiser.com.au
- * Description: app-test trigger test 1
+ * Description: app-test trigger test 2
  * Version: 1.0.0
  * Author: Landing page team
  * Author URI: https://appetiser.com.au
  * License: GPL v3
-*  License URI: https://www.gnu.org/licenses/gpl-3.0.html
+ *  License URI: https://www.gnu.org/licenses/gpl-3.0.html
  */
