@@ -2,7 +2,7 @@
 /**
  * Plugin Name: app-test
  * Plugin URI:  https://appetiser.com.au
- * Description: app-test trigger test 14
+ * Description: app-test trigger test 15
  * Version: 1.0.0
  * Author: Landing page team
  * Author URI: https://appetiser.com.au
